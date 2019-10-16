@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Murod Parmonov's sub website.
 
 You can use the [editor on GitHub](https://github.com/parmonov98/parmonov98.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
